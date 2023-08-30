@@ -4,51 +4,10 @@
 
 # **_Quem somos?_**
 
-  A G4 Devels é uma pequena empresa criada em Agosto de 2023, com intuito de alavancar grandes projetos e se torna uma das melhores empresas do mercado e estamos dispostos para enfrentar qual for o desafio.
-<br>
-<sup> _informações sobre a empresa_ </sup>
-## *Nossa missão, Nossos valores e Nossa visão*
+A G4Devels é uma empresa desenvolvedora de software em busca de aumentar a sua eficiência diária. Criada apenas em agosto de 2023, esta jovem empresa busca implementar seus sonhos, não somos grandes, não somos ricos, somos apenas teimosos agora e sempre. Nossos colaboradores entendem e abraçam nossa missão de fazer o mundo melhor, não se limitando à ideias pré-concebidas ou qualquer tipo de crança limitante. Somos fortes, somos ousados, somos devels.
 
+### 🏢 *| Conheça nosso time de colaboradores*
 
----
-
-### 🎯 | Missão
-- Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
-
----
-
-### 💡 | Valores
-- A G4Devs é resumida por colaboração, adaptação e repetição. A sede de melhoria nos move e por ela trabalharemos até o fim.
-
----
-
-### 👀 | Visão
-- Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fácil, tecnológica e justa.
-
----
-
-<div align="center"> 
-  
-  ## 📊 *| Estatísticas* 
-  
-</div>
-
-<!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
-<div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?=G4Devels&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
-</div>
-
-<!-- Documentation: https://github.com/ryo-ma/github-profile-trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G4Devels&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Trophy">
-</div>
--->
----
-<div align="center">
-  
-## 🏢 *| Team*
-
-</div>
 <table align="center">
     <tr align="center">
       <td>
@@ -112,6 +71,49 @@
     </tr>
 </table>
 
+<div align = "center"> 
+  
+  ### *G4Devels, soluções especiais para pessoas especiais*
+  
+</div>
+
+
+## *Nossa missão, Nossos valores e Nossa visão*
+
+
+---
+
+### 🎯 | Missão
+- Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
+
+---
+
+### 💡 | Valores
+- A G4Devs é resumida por colaboração, adaptação e repetição. A sede de melhoria nos move e por ela trabalharemos até o fim.
+
+---
+
+### 👀 | Visão
+- Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fácil, tecnológica e justa.
+
+---
+
+<div align="center"> 
+  
+  ## 📊 *| Estatísticas* 
+  
+</div>
+
+<!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?=G4Devels&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+</div>
+
+<!-- Documentation: https://github.com/ryo-ma/github-profile-trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=G4Devels&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Trophy">
+</div>
+-->
 
 <!--
 
