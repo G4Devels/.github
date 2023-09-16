@@ -71,6 +71,9 @@ A G4Devels é uma empresa desenvolvedora de software em busca de aumentar a sua 
     </tr>
 </table>
 
+
+---
+
 <div align = "center"> 
   
   ### *G4Devels, soluções especiais para pessoas especiais*
@@ -80,8 +83,6 @@ A G4Devels é uma empresa desenvolvedora de software em busca de aumentar a sua 
 
 ## *Nossa missão, Nossos valores e Nossa visão*
 
-
----
 
 ### 🎯 | Missão
 - Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
